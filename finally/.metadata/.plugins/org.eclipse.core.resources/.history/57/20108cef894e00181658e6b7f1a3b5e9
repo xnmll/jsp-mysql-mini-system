@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+<meta charset="UTF-8">
+<title>渭南石羊企业生猪养殖信息系统</title>
+<script src="eui/jquery.min.js"></script>
+<script src="eui/jquery.easyui.min.js"></script>
+<script src="eui/easyui-lang-zh_CN.js"></script>
+<link rel="stylesheet" href="eui/themes/icon.css">
+<link rel="stylesheet" href="eui/themes/default/easyui.css">
+<style type="text/css">
+#fm {
+	margin: 0;
+	padding: 10px 30px;
+}
+
+.ftitle {
+	font-size: 14px;
+	font-weight: bold;
+	padding: 5px 0;
+	margin-bottom: 10px;
+	border-bottom: 1px solid #ccc;
+}
+
+.fitem {
+	margin-bottom: 5px;
+}
+
+.fitem label {
+	display: inline-block;
+	width: 80px;
+}
+
+.fitem input {
+	width: 160px;
+}
+</style>
+</head>
+<body>
+	
+</body>
+</html>
